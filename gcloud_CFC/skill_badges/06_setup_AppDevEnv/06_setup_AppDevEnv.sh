@@ -38,8 +38,8 @@ mkdir gcf-thumbnail
 cd gcf-thumbnail
 
 # Create files.
-curl -O https://raw.githubusercontent.com/jdrengifoc/cloudskillsboost/tree/main/gcloud_CFC/skill_badges/06_setup_AppDevEnv/index.js
-curl -O https://raw.githubusercontent.com/jdrengifoc/cloudskillsboost/tree/main/gcloud_CFC/skill_badges/06_setup_AppDevEnv/packages.js
+curl -O https://raw.githubusercontent.com/jdrengifoc/cloudskillsboost/main/gcloud_CFC/skill_badges/06_setup_AppDevEnv/index.js
+curl -O https://raw.githubusercontent.com/jdrengifoc/cloudskillsboost/main/gcloud_CFC/skill_badges/06_setup_AppDevEnv/packages.js
 
 # Deploy gcf.
 gcloud functions deploy $FUNCTION_NAME \
