@@ -1,5 +1,7 @@
 # cloudskillsboost
 
+## Nano shortcuts
+
 | Shortcut          | Description                                   |
 |-------------------|-----------------------------------------------|
 | `Ctrl + A`       | Move cursor to the start of the line           |
